@@ -74,11 +74,6 @@ spec/anaconda.spec:%package tui
 spec/anaconda.spec:%package widgets
 spec/anaconda.spec:%package widgets-devel
 spec/anaconda.spec:%package dracut
-spec/anaconda.spec:- Support timeout and retries options in %%packages section (vponcova)
-spec/anaconda.spec:- Implement %%packages --excludeWeakdeps (#1331100) (james)
-spec/anaconda.spec:- Add kickstart tests for %%packages --instLangs (dshea)
-spec/anaconda.spec:- Add a kickstart test for %%packages --ignoremissing (dshea)
-spec/anaconda.spec:- Support '%%packages --multilib' in dnfpayload.py (#1192628) (dcantrell)
 spec/annobin.spec:%package tests
 spec/annobin.spec:%package annocheck
 spec/ant.spec:%package lib
@@ -129,9 +124,6 @@ spec/atlas.spec:%package static
 spec/atlas.spec:%package corei2-static
 spec/atlas.spec:%package corei2
 spec/atlas.spec:%package corei2-devel
-spec/atlas.spec:#%package corei1
-spec/atlas.spec:#%package corei1-devel
-spec/atlas.spec:#%package corei1-static
 spec/atlas.spec:%package z196
 spec/atlas.spec:%package z196-devel
 spec/atlas.spec:%package z196-static
@@ -1027,7 +1019,6 @@ spec/git.spec:%package -n %{?scl_prefix}perl-Git-SVN
 spec/git.spec:%package subtree
 spec/git.spec:%package svn
 spec/git.spec:%package instaweb
-spec/git.spec:- Order %%files and %%packages sections by name
 spec/gjs.spec:%package devel
 spec/gjs.spec:%package tests
 spec/glade.spec:%package libs
@@ -1055,7 +1046,6 @@ spec/glib2.spec:%package doc
 spec/glib2.spec:%package fam
 spec/glib2.spec:%package static
 spec/glib2.spec:%package tests
-spec/glibc.spec:# %%package glibc - The GNU C Library (glibc) core package.
 spec/glibc.spec:%package -n libnsl
 spec/glibc.spec:%package devel
 spec/glibc.spec:%package static
@@ -1157,8 +1147,6 @@ spec/gnupg2.spec:%package smime
 spec/gnuplot.spec:%package common
 spec/gnuplot.spec:%package minimal
 spec/gnuplot.spec:%package wx
-spec/gnuplot.spec:#%package -n emacs-%{name}
-spec/gnuplot.spec:#%package -n emacs-%{name}-el
 spec/gnuplot.spec:%package doc
 spec/gnuplot.spec:%package latex
 spec/gnutls.spec:%package c++
@@ -1487,8 +1475,6 @@ spec/ipxe.spec:%package bootimgs
 spec/ipxe.spec:%package roms
 spec/ipxe.spec:%package roms-qemu
 spec/irssi.spec:%package devel
-spec/iscsi-initiator-utils.spec:#%package -n libopeniscsiusr
-spec/iscsi-initiator-utils.spec:#%package -n libopeniscsiusr-devel
 spec/iscsi-initiator-utils.spec:%package iscsiuio
 spec/iscsi-initiator-utils.spec:%package devel
 spec/iscsi-initiator-utils.spec:%package -n python2-%{name}
@@ -2323,8 +2309,6 @@ spec/libverto.spec:%package        glib
 spec/libverto.spec:%package        glib-devel
 spec/libverto.spec:%package        libevent
 spec/libverto.spec:%package        libevent-devel
-spec/libverto.spec:# %package        tevent
-spec/libverto.spec:# %package        tevent-devel
 spec/libverto.spec:%package        libev
 spec/libverto.spec:%package        libev-devel
 spec/libvirt-glib.spec:%package devel
@@ -2668,7 +2652,6 @@ spec/mysql.spec:%package          test
 spec/mythes.spec:%package devel
 spec/nautilus.spec:%package extensions
 spec/nautilus.spec:%package devel
-spec/nautilus.spec:- Moved %%description sections closer to their %%package sections
 spec/nbdkit.spec:%package basic-plugins
 spec/nbdkit.spec:%package example-plugins
 spec/nbdkit.spec:%package plugin-gzip
@@ -3401,13 +3384,6 @@ spec/pygtk2.spec:%package codegen
 spec/pygtk2.spec:%package devel
 spec/pygtk2.spec:%package doc
 spec/pykickstart.spec:%package -n python3-kickstart
-spec/pykickstart.spec:- Add timeout and retries options to %packages section in RHEL7 (vponcova)
-spec/pykickstart.spec:- Add support for --excludeWeakdeps option to %packages. (james)
-spec/pykickstart.spec:- Fix writing out an empty %packages section when using ksflatten. (clumens)
-spec/pykickstart.spec:- Keeping order of contents in the %packages section with OrderedSet (under MIT license). (tradej)
-spec/pykickstart.spec:- Add support for --multilib option to %packages. (dlehman)
-spec/pykickstart.spec:- Add a test case for %include inside %packages. (clumens)
-spec/pykickstart.spec:- Support end-of-line comments in the %packages section (#728563). (clumens)
 spec/pyOpenSSL.spec:%package -n python2-pyOpenSSL
 spec/pyOpenSSL.spec:%package -n python3-pyOpenSSL
 spec/pyOpenSSL.spec:%package doc
@@ -3907,7 +3883,6 @@ spec/rhn-virtualization.spec:%package host
 spec/rhn-virtualization.spec:%package -n python2-%{name}-host
 spec/rhn-virtualization.spec:%package -n python3-%{name}-host
 spec/rhythmbox.spec:%package devel
-spec/rpmdevtools.spec:- Add %%packager from rpm config to the set of defaults for rpmdev-bumpspec's
 spec/rpm-ostree.spec:%package libs
 spec/rpm-ostree.spec:%package devel
 spec/rpm.spec:%package libs
