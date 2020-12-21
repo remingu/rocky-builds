@@ -1,0 +1,6 @@
+qt5-qtbase-private-devel
+qt5-qtbase-static >= 5.12.5
+qt5-qtdeclarative-devel
+qt5-qtimageformats
+qt5-qtxmlpatterns-devel
+qt5-rpm-macros >= 5.12.5

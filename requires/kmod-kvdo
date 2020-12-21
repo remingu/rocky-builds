@@ -1,0 +1,5 @@
+elfutils-libelf-devel
+glibc
+kernel-devel >= 4.18.0-187.el8
+libuuid-devel
+redhat-rpm-config

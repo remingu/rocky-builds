@@ -1,0 +1,8 @@
+gcc
+gcc-toolset-9-binutils-devel
+gcc-toolset-9-elfutils-devel
+gzip
+libacl-devel
+pkgconfig(bluez)
+scl-utils-build
+time

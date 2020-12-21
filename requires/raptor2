@@ -1,0 +1,4 @@
+curl-devel
+gtk-doc
+libicu-devel
+pkgconfig(libxslt)

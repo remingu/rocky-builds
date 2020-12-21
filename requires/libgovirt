@@ -1,0 +1,12 @@
+autoconf
+automake
+dconf
+gettext-devel
+git-core
+glib-networking
+gnupg2
+gobject-introspection-devel
+intltool
+libtool
+pkgconfig(glib-2.0)
+rest-devel >= 0.7.92

@@ -1,0 +1,8 @@
+autoconf
+automake
+gcc
+libimobiledevice-devel
+libplist-devel
+libtool
+libusbx-devel
+systemd

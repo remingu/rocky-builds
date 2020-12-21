@@ -1,0 +1,2 @@
+#!/bin/bash
+dnf repoquery --disablerepo=* --enablerepo=*-source --arch=src --qf='%{name}' > source-pkg-list

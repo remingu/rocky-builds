@@ -1,0 +1,14 @@
+autoconf
+automake
+bison
+doxygen
+flex
+isns-utils-devel
+kmod-devel
+libmount-devel
+libtool
+openssl-devel
+python3-devel
+python3-setuptools
+systemd-devel
+systemd-units

@@ -1,0 +1,9 @@
+/usr/bin/pathfix.py
+autoconf
+automake
+libtool
+libuuid-devel
+python3
+systemtap-sdt-devel
+texinfo
+userspace-rcu-devel >= 0.8.0

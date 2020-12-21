@@ -1,0 +1,4 @@
+maven-local
+maven-local-openjdk8
+mvn(org.apache.commons:commons-parent:pom:)
+mvn(org.apache.maven.plugins:maven-antrun-plugin)

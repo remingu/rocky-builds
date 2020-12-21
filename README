@@ -1,0 +1,17 @@
+Some quick and dirty scripts to generating a lsit of missing source build
+dependencies in CENTOS8.  Run the numbered scripts in order. scripts without a
+number are just helpers run by other scripts.
+
+File list:
+1-gen-pkg-list             # list all packages available in dnf
+2-get-all                  # get build dependencies for all packages
+3-get-available-src-pkgs   # grab a list of all source packages that are available
+4-merge-requires           # merge all the build dependencies into a combined list
+5-show-missing-src-pkgs    # show missing source packages
+build-dep-list.txt         # the combined list of source dependencies
+get-package-builddeps      # helper script to get thebuild deps for a single package
+missing-build-dep-list.txt # list of missing build dependencies
+packages                   # list of all available packages
+README
+requires/                  # directory that contains a list of each packages build dependencies, on file per package
+source-pkg-list            # list of all source packages available via dnf

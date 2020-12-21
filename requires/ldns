@@ -1,0 +1,12 @@
+doxygen
+gcc
+gcc-c++
+libpcap-devel
+make
+openssl-devel >= 1.1.0
+perl(Devel::CheckLib)
+perl-ExtUtils-MakeMaker
+perl-devel
+perl-generators
+python3-devel
+swig

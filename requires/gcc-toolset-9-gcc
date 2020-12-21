@@ -1,0 +1,29 @@
+/usr/bin/pod2man
+binutils >= 2.19.51.0.14-33
+bison
+dblatex
+dejagnu
+docbook5-style-xsl
+doxygen >= 1.7.1
+elfutils-devel >= 0.147
+elfutils-libelf-devel >= 0.147
+flex
+gcc
+gcc-c++
+gcc-toolset-9-binutils >= 2.31
+gdb
+gettext
+glibc-devel >= 2.4.90-13
+glibc-static
+gmp-devel >= 4.1.2-8
+graphviz
+libmpc-devel >= 0.8.1
+libxml2
+mpfr-devel >= 2.2.1
+python3-sphinx
+scl-utils-build
+sharutils
+texinfo
+texinfo-tex
+texlive-collection-latex
+zlib-devel

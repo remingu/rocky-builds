@@ -1,0 +1,4 @@
+qt5-qtbase-devel >= 5.12.5
+qt5-qtbase-private-devel
+qt5-qtdeclarative-devel
+qt5-qtwebsockets-devel

@@ -1,0 +1,5 @@
+/usr/bin/ronn
+compiler(go-compiler)
+git >= 1.8.5
+perl-Digest-SHA
+perl-Test-Harness

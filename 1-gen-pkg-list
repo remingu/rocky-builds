@@ -1,0 +1,3 @@
+#!/bin/bash
+yum --disablerepo='*' --enablerepo=PowerTools --enablerepo=BaseOS --enablerepo=AppStream list | tee packages-raw
+cat packages-raw  | tail -n +8 | grep -v ^Avail | grep  -v ^Installed | awk '{ print $1 }' | tee packages

@@ -1,0 +1,14 @@
+binutils
+cmake >= 2.8.11
+gcc
+libudev-devel
+ninja-build
+pandoc
+pkgconfig
+pkgconfig(libnl-3.0)
+pkgconfig(libnl-route-3.0)
+python3-devel
+python3-docutils
+sed
+systemd
+valgrind-devel

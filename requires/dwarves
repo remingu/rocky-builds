@@ -1,0 +1,4 @@
+cmake
+elfutils-devel >= 0.130
+gcc
+zlib-devel

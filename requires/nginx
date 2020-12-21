@@ -1,0 +1,12 @@
+gcc
+gd-devel
+gnupg2
+gperftools-devel
+libxslt-devel
+openssl-devel
+pcre-devel
+perl(ExtUtils::Embed)
+perl-devel
+perl-generators
+systemd
+zlib-devel

@@ -1,0 +1,9 @@
+autoconf-archive
+libtool
+pkgconfig(cmocka)
+pkgconfig(dbus-1)
+pkgconfig(gio-unix-2.0)
+pkgconfig(tss2-mu)
+pkgconfig(tss2-sys)
+systemd
+tpm2-tss-devel >= 2.0.0-2.el8

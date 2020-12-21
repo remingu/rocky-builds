@@ -1,0 +1,7 @@
+autoconf-archive
+gcc
+gcc-c++
+libgcrypt-devel
+libtool
+pkgconfig
+systemd

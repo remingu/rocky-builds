@@ -1,0 +1,12 @@
+autoconf
+automake
+desktop-file-utils
+dos2unix
+gcc-c++
+gettext-devel
+gtk2-devel
+libpcap-devel
+libtool
+lua-devel
+openssl-devel
+pcre-devel

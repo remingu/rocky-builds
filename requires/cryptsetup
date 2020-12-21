@@ -1,0 +1,8 @@
+device-mapper-devel
+gcc
+json-c-devel
+libblkid-devel
+libpwquality-devel
+libuuid-devel
+openssl-devel
+popt-devel

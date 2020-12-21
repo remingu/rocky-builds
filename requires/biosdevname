@@ -1,0 +1,4 @@
+autoconf
+automake
+pciutils-devel
+zlib-devel

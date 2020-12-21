@@ -1,0 +1,6 @@
+gcc
+ruby(release)
+ruby-devel >= 1.9.3
+rubygem(bigdecimal)
+rubygem(rspec)
+rubygems-devel >= 1.3.6

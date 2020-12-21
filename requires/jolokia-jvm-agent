@@ -1,0 +1,4 @@
+maven-local
+mvn(com.googlecode.json-simple:json-simple)
+mvn(javax.servlet:servlet-api)
+mvn(org.apache.maven.plugins:maven-shade-plugin)

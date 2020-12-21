@@ -1,0 +1,11 @@
+/usr/bin/xsltproc
+autoconf
+automake
+bash-completion
+desktop-file-utils
+docbook-style-xsl
+gcc
+libtool
+openssl-devel
+pcsc-lite-devel
+readline-devel

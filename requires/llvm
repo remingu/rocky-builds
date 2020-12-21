@@ -1,0 +1,12 @@
+binutils-devel
+cmake
+gcc
+gcc-c++
+libffi-devel
+multilib-rpm-config
+ncurses-devel
+ninja-build
+python3-devel
+python3-sphinx
+valgrind-devel
+zlib-devel

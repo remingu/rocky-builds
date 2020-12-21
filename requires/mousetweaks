@@ -1,0 +1,10 @@
+GConf2-devel
+gettext
+gsettings-desktop-schemas-devel
+gtk3-devel >= 3.0.0
+intltool
+libXcursor-devel
+libXfixes-devel
+libXtst-devel
+pkgconfig
+yelp-tools

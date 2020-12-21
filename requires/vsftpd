@@ -1,0 +1,6 @@
+gcc
+git
+libcap-devel
+openssl-devel
+pam-devel
+systemd

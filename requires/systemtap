@@ -1,0 +1,25 @@
+avahi-devel
+cpio
+crash-devel
+dyninst-devel >= 10.0
+elfutils-devel >= 0.142
+emacs
+gcc-c++
+gettext-devel
+java-devel
+jpackage-utils
+nss-devel
+pkgconfig(avahi-client)
+pkgconfig(json-c)
+pkgconfig(libselinux)
+pkgconfig(libvirt)
+pkgconfig(libxml-2.0)
+pkgconfig(ncurses)
+pkgconfig(nss)
+python3-devel
+python3-setuptools
+readline-devel
+rpm-devel
+sqlite-devel > 3.7
+systemd
+zlib-devel

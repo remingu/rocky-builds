@@ -1,0 +1,6 @@
+autoconf
+automake
+libibumad-devel > 1.3.6
+libibverbs-devel > 1.1.4
+librdmacm-devel > 1.0.14
+libtool

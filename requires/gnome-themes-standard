@@ -1,0 +1,9 @@
+/usr/bin/gtk-update-icon-cache
+autoconf
+automake
+gettext
+gtk2-devel >= 2.24.15
+gtk3-devel >= 3.9.12
+intltool
+librsvg2-devel
+libtool

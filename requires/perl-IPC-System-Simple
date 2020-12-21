@@ -1,0 +1,19 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Config)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(File::Basename)
+perl(List::Util)
+perl(POSIX)
+perl(Scalar::Util)
+perl(Test)
+perl(Test::More)
+perl(constant)
+perl(re)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

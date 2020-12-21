@@ -1,0 +1,12 @@
+autoconf
+automake
+dblatex
+docbook-style-xsl
+graphviz
+libxslt
+python3-devel
+source-highlight
+symlinks
+texlive-dvipng-bin
+texlive-dvisvgm-bin
+vim-filesystem

@@ -1,0 +1,9 @@
+dbus-x11
+gcc-c++
+mesa-dri-drivers
+python3
+qt5-qtbase-devel >= 5.12.5
+qt5-qtbase-private-devel
+qt5-rpm-macros >= 5.12.5
+time
+xorg-x11-server-Xvfb

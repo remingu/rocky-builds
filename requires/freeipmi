@@ -1,0 +1,4 @@
+gcc
+libgcrypt-devel
+systemd
+texinfo

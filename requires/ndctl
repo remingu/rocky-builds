@@ -1,0 +1,13 @@
+asciidoc
+autoconf
+automake
+keyutils-libs-devel
+libtool
+pkgconfig
+pkgconfig(bash-completion)
+pkgconfig(json-c)
+pkgconfig(libkmod)
+pkgconfig(libudev)
+pkgconfig(uuid)
+systemd
+xmlto

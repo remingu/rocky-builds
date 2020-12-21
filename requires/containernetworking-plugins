@@ -1,0 +1,4 @@
+compiler(go-compiler)
+git
+go-md2man
+golang >= 1.12.12-4

@@ -1,0 +1,13 @@
+automake
+binutils-devel
+doxygen
+elfutils-devel
+elfutils-libelf-devel
+gcc-c++
+gdb
+git
+libtool
+pkgconfig
+python3-devel
+python3-sphinx
+rpm-devel

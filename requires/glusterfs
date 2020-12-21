@@ -1,0 +1,23 @@
+bison
+firewalld
+flex
+fuse-devel
+gcc
+git
+libacl-devel
+libaio-devel
+libcurl-devel
+libibverbs-devel
+librdmacm-devel >= 1.0.15
+libtirpc-devel
+libtool
+libuuid-devel
+libxml2-devel
+make
+ncurses-devel
+openssl-devel
+python3-devel
+readline-devel
+rpcgen
+systemd
+userspace-rcu-devel >= 0.7

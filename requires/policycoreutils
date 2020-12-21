@@ -1,0 +1,16 @@
+audit-libs-devel >= 3.0
+dbus-devel
+dbus-glib-devel
+desktop-file-utils
+gcc
+gettext
+git
+libcap-devel
+libcap-ng-devel
+libselinux-devel >= 2.9-1
+libsemanage-static >= 2.9-2
+libsepol-static >= 2.9-1
+pam-devel
+python3-devel
+systemd
+systemd-units

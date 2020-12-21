@@ -1,0 +1,14 @@
+docbook-style-xsl
+doxygen
+gcc
+libcmocka-devel
+libtalloc-devel >= 2.2.0
+libtdb-devel >= 1.4.2
+libtevent-devel >= 0.10.0
+libxslt
+openldap-devel
+popt-devel
+python3-devel
+python3-talloc-devel
+python3-tdb
+python3-tevent

@@ -1,0 +1,10 @@
+bison
+byacc
+flex
+git
+libX11-devel
+meson
+pkgconfig(xcb-xkb) >= 1.10
+xkeyboard-config-devel
+xorg-x11-proto-devel
+xorg-x11-util-macros

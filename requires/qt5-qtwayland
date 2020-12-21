@@ -1,0 +1,16 @@
+pkgconfig(egl)
+pkgconfig(gl)
+pkgconfig(libinput)
+pkgconfig(libudev)
+pkgconfig(wayland-client)
+pkgconfig(wayland-cursor)
+pkgconfig(wayland-egl)
+pkgconfig(wayland-scanner)
+pkgconfig(wayland-server)
+pkgconfig(xcomposite)
+pkgconfig(xkbcommon)
+pkgconfig(xrender)
+qt5-qtbase-devel >= 5.12.5
+qt5-qtbase-private-devel
+qt5-qtbase-static
+qt5-qtdeclarative-devel

@@ -1,0 +1,8 @@
+autoconf
+automake
+fipscheck
+gcc
+gettext-devel
+gmp-devel
+libtool
+m4

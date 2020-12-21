@@ -1,0 +1,36 @@
+/usr/bin/dbus-launch
+/usr/bin/valac
+ModemManager-glib-devel >= 1.0
+audit-libs-devel
+autoconf
+automake
+bluez-libs-devel
+dbus-devel >= 1.1
+dhclient
+gcc
+gettext-devel
+glib2-devel >= 2.40.0
+gnutls-devel >= 2.12
+gobject-introspection-devel >= 0.10.3
+intltool
+iptables
+jansson-devel
+libcurl-devel
+libndp-devel >= 1.0
+libselinux-devel
+libtool
+libudev-devel
+libuuid-devel
+libxslt
+mobile-broadband-provider-info-devel
+newt-devel
+pkgconfig
+polkit-devel
+ppp-devel >= 2.4.5
+python3
+python3-dbus
+python3-gobject-base
+readline-devel
+systemd >= 200-3
+systemd-devel
+teamd-devel

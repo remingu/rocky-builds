@@ -1,0 +1,4 @@
+git
+pkgconfig(systemd)
+selinux-policy >= 3.14.3-9.el8
+selinux-policy-devel >= 3.14.3-9.el8

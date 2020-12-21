@@ -1,0 +1,11 @@
+asciidoc
+cmake
+doxygen
+freetype-devel
+gcc
+gcc-c++
+texlive-helvetic
+texlive-multirow
+texlive-sectsty
+texlive-tocloft
+texlive-xtab

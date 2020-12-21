@@ -1,0 +1,6 @@
+autoconf
+automake
+fipscheck
+git
+libtool
+perl-Carp

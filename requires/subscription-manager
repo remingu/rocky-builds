@@ -1,0 +1,19 @@
+GConf2-devel
+cmake
+dbus-glib-devel
+desktop-file-utils
+gcc
+gettext
+gtk3-devel
+intltool
+json-c-devel
+libdnf-devel >= 0.22.5
+libnotify-devel
+openssl-devel
+python3-dateutil
+python3-devel
+python3-setuptools
+python3-six
+scrollkeeper
+system-release
+systemd

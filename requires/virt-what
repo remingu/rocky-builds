@@ -1,0 +1,5 @@
+/usr/bin/pod2man
+autoconf
+automake
+git
+util-linux

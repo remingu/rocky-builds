@@ -1,0 +1,8 @@
+autoconf
+automake
+binutils-devel
+kernel-headers
+libnl3-devel
+libtool
+pkgconfig
+readline-devel

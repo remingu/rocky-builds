@@ -1,0 +1,4 @@
+gcc
+git
+glib2-devel
+systemd-devel

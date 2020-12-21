@@ -1,0 +1,23 @@
+autoconf
+automake
+check-devel
+glib2-devel
+gtk-doc
+java-devel
+jpackage-utils
+libtool
+libtool-ltdl-devel
+libxml2-devel
+openssl-devel
+perl(Error)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl-devel
+python3
+python3-devel
+python3-lxml
+python3-six
+swig
+xmlsec1-devel >= 1.2.25-4
+xmlsec1-openssl-devel >= 1.2.25-4
+zlib-devel

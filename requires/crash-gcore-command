@@ -1,0 +1,4 @@
+crash-devel >= 5.1.5
+lzo-devel
+snappy-devel
+zlib-devel

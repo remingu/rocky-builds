@@ -1,0 +1,13 @@
+cmake3
+gcc
+gcc-c++
+ninja-build
+pkgconfig(wayland-client)
+pkgconfig(wayland-cursor)
+pkgconfig(wayland-egl)
+pkgconfig(wayland-server)
+pkgconfig(x11)
+pkgconfig(xrandr)
+python3-devel
+vulkan-headers = 1.2.131.1
+vulkan-headers = 1.2.135.0

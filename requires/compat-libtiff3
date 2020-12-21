@@ -1,0 +1,5 @@
+autoconf
+automake
+libjpeg-devel
+libtool
+zlib-devel

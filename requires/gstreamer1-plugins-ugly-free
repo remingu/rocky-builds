@@ -1,0 +1,12 @@
+autoconf
+automake
+check
+gettext-devel
+gstreamer1-devel >= 1.16.1
+gstreamer1-plugins-base-devel >= 1.16.1
+gtk-doc
+liba52-devel
+libcdio-devel
+libdvdread-devel
+libtool
+python3-devel

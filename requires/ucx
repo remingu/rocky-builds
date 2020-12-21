@@ -1,0 +1,8 @@
+autoconf
+automake
+gcc-c++
+glibc-devel >= 2.15
+libibverbs-devel
+librdmacm-devel
+libtool
+numactl-devel

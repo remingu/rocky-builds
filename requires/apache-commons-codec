@@ -1,0 +1,6 @@
+maven-local
+maven-local-openjdk8
+mvn(junit:junit)
+mvn(org.apache.commons:commons-lang3)
+mvn(org.apache.commons:commons-parent:pom:)
+mvn(org.apache.maven.plugins:maven-assembly-plugin)

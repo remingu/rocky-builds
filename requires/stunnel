@@ -1,0 +1,13 @@
+/usr/bin/lsof
+/usr/bin/nc
+/usr/bin/pod2html
+/usr/bin/pod2man
+/usr/bin/ps
+autoconf
+automake
+gcc
+libtool
+openssl-devel
+pkgconfig
+systemd
+util-linux

@@ -1,0 +1,6 @@
+gcc
+glib2-devel >= 2.32.0
+gtk-doc
+libmbim-devel >= 1.18.0
+pkgconfig(gudev-1.0) >= 147
+python3-devel

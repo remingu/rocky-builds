@@ -1,0 +1,14 @@
+autoconf
+automake
+bison
+flex
+gcc
+kernel-headers
+libpcap-devel
+libselinux-devel
+libtool
+pkgconfig(libmnl) >= 1.0
+pkgconfig(libnetfilter_conntrack)
+pkgconfig(libnfnetlink)
+pkgconfig(libnftnl) >= 1.1.5-1
+systemd

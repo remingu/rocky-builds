@@ -1,0 +1,8 @@
+/usr/bin/python3
+cmake >= 2.8
+expat
+libxslt
+openscap-scanner >= 1.2.5
+python3-PyYAML
+python3-jinja2
+python3-lxml

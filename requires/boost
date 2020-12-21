@@ -1,0 +1,9 @@
+bzip2-devel
+libicu-devel
+libstdc++-devel
+m4
+mpich-devel
+openmpi-devel
+python3-devel
+python3-numpy
+zlib-devel

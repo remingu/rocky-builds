@@ -1,0 +1,2 @@
+#!/bin/bash
+cat packages | cut -d. -f1 | xargs -l1 -I+ bash -c "./get-package-builddeps + > requires/+"

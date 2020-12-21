@@ -1,0 +1,6 @@
+beakerlib
+gcc
+gettext
+libselinux-devel
+newt-devel
+popt-devel

@@ -1,0 +1,7 @@
+autoconf
+automake
+gcc-c++
+libtool
+pkgconfig(jasper)
+pkgconfig(lcms2)
+pkgconfig(libjpeg)

@@ -1,0 +1,14 @@
+/usr/bin/a2x
+autoconf
+automake
+findutils
+gcc
+gettext-devel
+libcmocka-devel >= 1.0.0
+libselinux-devel
+libtool
+m4
+pkgconfig
+pkgconfig(popt)
+po4a
+python3-devel

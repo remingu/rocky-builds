@@ -1,0 +1,8 @@
+asciidoc
+gcc
+libudev-devel
+meson
+pkgconfig(gio-2.0)
+pkgconfig(libudev)
+polkit-devel
+systemd

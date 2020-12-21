@@ -1,0 +1,6 @@
+maven-local
+mvn(log4j:log4j:12)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.jboss.logmanager:jboss-logmanager)
+mvn(org.jboss:jboss-parent:pom:)
+mvn(org.slf4j:slf4j-api)

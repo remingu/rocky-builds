@@ -1,0 +1,53 @@
+avahi-devel
+cups-devel
+dbus-devel
+docbook-style-xsl
+e2fsprogs-devel
+gawk
+gcc
+gnupg2
+gnutls-devel >= 3.4.7
+gpgme-devel
+jansson-devel
+krb5-devel >= 1.15.1
+libacl-devel
+libaio-devel
+libarchive-devel
+libattr-devel
+libcap-devel
+libcmocka-devel
+libldb-devel >= 2.0.7
+libnsl2-devel
+libtalloc-devel >= 2.2.0
+libtasn1-devel
+libtasn1-tools
+libtdb-devel >= 1.4.2
+libtevent-devel >= 0.10.0
+libtirpc-devel
+libuuid-devel
+libxslt
+lmdb
+ncurses-devel
+openldap-devel
+pam-devel
+perl(Archive::Tar)
+perl(ExtUtils::MakeMaker)
+perl(Parse::Yapp)
+perl(Test::More)
+perl-generators
+perl-interpreter
+pkgconfig(libsystemd)
+popt-devel
+python3-devel
+python3-ldb-devel >= 2.0.7
+python3-talloc-devel >= 2.2.0
+python3-tdb >= 1.4.2
+python3-tevent >= 0.10.0
+quota-devel
+readline-devel
+rpcgen
+rpcsvc-proto-devel
+sed
+xfsprogs-devel
+xz
+zlib-devel >= 1.2.3

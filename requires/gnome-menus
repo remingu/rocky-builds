@@ -1,0 +1,6 @@
+gawk
+gettext
+glib2-devel
+gobject-introspection-devel
+intltool
+pkgconfig

@@ -1,0 +1,7 @@
+curl-devel
+gcc
+glib2-devel
+httpd-devel
+lasso-devel >= 2.5.1
+openssl-devel
+xmlsec1-devel

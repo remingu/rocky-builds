@@ -1,0 +1,26 @@
+coreutils
+findutils
+gcc
+make
+perl
+perl(Carp)
+perl(Carp::Heavy)
+perl(Config)
+perl(Errno)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Path)
+perl(File::Temp)
+perl(Scalar::Util)
+perl(Test::More) >= 0.88
+perl(XSLoader)
+perl(constant)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+sed

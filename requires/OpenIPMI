@@ -1,0 +1,15 @@
+autoconf
+automake
+gdbm-devel
+glib2-devel
+libtool
+ncurses-devel
+net-snmp-devel
+openssl-devel
+perl-devel
+perl-generators
+pkgconfig
+python3-devel
+readline-devel
+swig
+systemd

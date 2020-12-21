@@ -1,0 +1,17 @@
+clang
+cmake
+compat-openssl10
+git
+glibc-langpack-en
+hostname
+krb5-devel
+libcurl-devel
+libicu-devel
+lldb-devel
+llvm
+lttng-ust-devel
+make
+openssl-devel
+python3
+strace
+zlib-devel

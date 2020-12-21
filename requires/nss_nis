@@ -1,0 +1,6 @@
+autoconf
+automake
+libnsl2-devel
+libtirpc-devel
+libtool
+systemd

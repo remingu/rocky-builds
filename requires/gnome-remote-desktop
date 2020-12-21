@@ -1,0 +1,13 @@
+gcc
+git
+meson >= 0.36.0
+pkgconfig
+pkgconfig(gio-unix-2.0) >= 2.32
+pkgconfig(glib-2.0) >= 2.32
+pkgconfig(gnutls)
+pkgconfig(libnotify)
+pkgconfig(libpipewire-0.2) >= 0.2.5
+pkgconfig(libsecret-1)
+pkgconfig(libvncserver) >= 0.9.11-7
+python3-devel
+systemd

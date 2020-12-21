@@ -1,0 +1,8 @@
+apr-devel
+apr-util-devel
+gcc
+krb5-devel
+openssl-devel
+pkgconfig
+python3-scons
+zlib-devel

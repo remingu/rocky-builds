@@ -1,0 +1,7 @@
+gcc
+libcap-devel
+libselinux-devel >= 2.9
+libsepol-devel
+libsepol-static
+pcre-devel
+systemd

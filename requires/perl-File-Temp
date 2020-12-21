@@ -1,0 +1,25 @@
+coreutils
+make
+perl(:VERSION) >= 5.6
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Errno)
+perl(Exporter) >= 5.57
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Fcntl) >= 1.03
+perl(File::Path) >= 2.06
+perl(File::Spec) >= 0.8
+perl(FileHandle)
+perl(IO::Handle)
+perl(IO::Seekable)
+perl(POSIX)
+perl(Scalar::Util)
+perl(Test::More)
+perl(constant)
+perl(overload)
+perl(parent) >= 0.221
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

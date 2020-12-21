@@ -1,0 +1,6 @@
+docbook-utils
+gettext
+python3-devel
+python3-rhn-client-tools
+python3-rpm-macros
+python3-spacewalk-backend-libs > 1.8.33

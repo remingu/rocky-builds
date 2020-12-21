@@ -1,0 +1,7 @@
+libgit2-glib
+python3-devel
+python3-flask
+python3-gobject
+python3-pytoml
+python3-semantic_version
+systemd

@@ -1,0 +1,4 @@
+gcc
+libpng-devel
+pcre-devel
+zlib-devel

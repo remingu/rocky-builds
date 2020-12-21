@@ -1,0 +1,15 @@
+/usr/sbin/sendmail
+audit-libs-devel
+autoconf
+automake
+bison
+flex
+gettext
+groff
+libcap-devel
+libgcrypt-devel
+libselinux-devel
+libtool
+openldap-devel
+pam-devel
+zlib-devel

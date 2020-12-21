@@ -1,0 +1,5 @@
+/usr/bin/execstack
+gcc
+gcc-gfortran
+multilib-rpm-config
+perl-devel

@@ -1,0 +1,18 @@
+device-mapper-persistent-data >= 0.7.0-0.1.rc6
+gcc
+gcc-c++
+libaio-devel
+libblkid-devel >= 2.24
+libselinux-devel >= 1.30.19-4
+libsepol-devel
+module-init-tools
+ncurses-devel
+pkgconfig
+python3-dbus
+python3-devel
+python3-pyudev
+python3-setuptools
+readline-devel
+sanlock-devel >= 3.3.0-2
+systemd-devel
+systemd-units

@@ -1,0 +1,9 @@
+alsa-lib-devel >= 1.2.1
+fftw-devel
+gcc
+gettext-devel
+libsamplerate-devel
+ncurses-devel
+python3-docutils
+systemd
+xmlto

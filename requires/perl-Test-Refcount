@@ -1,0 +1,14 @@
+perl(B)
+perl(Module::Build)
+perl(Scalar::Util)
+perl(Symbol)
+perl(Test::Builder::Module)
+perl(Test::Builder::Tester)
+perl(Test::More)
+perl(Test::Pod)
+perl(base)
+perl(constant)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

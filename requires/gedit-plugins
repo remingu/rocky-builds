@@ -1,0 +1,13 @@
+atk-devel
+cairo-devel
+gedit-devel
+gettext
+intltool
+itstool
+libpeas-devel
+perl(XML::Parser)
+python3-devel
+python3-gobject
+vala
+vte291-devel
+yelp-tools

@@ -1,0 +1,11 @@
+bison
+flex
+gawk
+gcc
+gettext
+glibc-devel
+krb5-devel
+multilib-rpm-config
+openldap-devel
+openssl-devel
+zlib-devel

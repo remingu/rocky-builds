@@ -1,0 +1,12 @@
+autoconf
+automake
+bison >= 1.875
+bzip2
+bzip2-devel
+flex >= 2.5.4a
+gcc >= 4.4
+gcc-c++
+gettext
+scl-utils-build
+xz-devel
+zlib-devel >= 1.2.2.3

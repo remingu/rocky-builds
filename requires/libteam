@@ -1,0 +1,11 @@
+autoconf
+automake
+dbus-devel
+doxygen
+jansson-devel
+libdaemon-devel
+libnl3-devel
+libtool
+python3-devel
+swig
+systemd-units

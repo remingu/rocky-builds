@@ -1,0 +1,7 @@
+asio-devel
+boost-devel
+check-devel
+gcc-c++
+openssl-devel
+python3-scons
+systemd

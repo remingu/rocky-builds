@@ -1,0 +1,10 @@
+fuse-devel
+gcc
+gettext
+libblkid-devel
+libselinux-devel
+libsepol-devel
+libuuid-devel
+multilib-rpm-config
+pkgconfig
+texinfo

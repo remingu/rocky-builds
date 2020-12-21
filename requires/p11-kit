@@ -1,0 +1,6 @@
+gcc
+gtk-doc
+libffi-devel
+libtasn1-devel >= 2.3
+pkgconfig(glib-2.0)
+systemd-devel

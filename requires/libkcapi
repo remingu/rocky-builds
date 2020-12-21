@@ -1,0 +1,12 @@
+coreutils
+cppcheck
+docbook-utils-pdf
+gcc
+git
+hardlink
+kernel-headers >= 4.10.0
+libtool
+openssl
+perl
+systemd
+xmlto

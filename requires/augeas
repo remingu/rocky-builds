@@ -1,0 +1,5 @@
+autoconf
+automake
+libselinux-devel
+libxml2-devel
+readline-devel

@@ -1,0 +1,21 @@
+findutils
+gcc
+make
+openssl
+openssl-devel
+perl(:VERSION) >= 5.6
+perl(AutoLoader)
+perl(Carp)
+perl(Crypt::OpenSSL::Bignum)
+perl(Crypt::OpenSSL::Guess) >= 0.11
+perl(Crypt::OpenSSL::Random)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test)
+perl(Test::More)
+perl(XSLoader)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

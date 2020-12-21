@@ -1,0 +1,12 @@
+asciidoc
+gcc
+libcap-devel
+libnet-devel
+libnl3-devel
+libselinux-devel
+perl-interpreter
+protobuf-c-devel
+protobuf-devel
+python3-devel
+systemd
+xmlto

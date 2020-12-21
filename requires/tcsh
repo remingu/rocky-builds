@@ -1,0 +1,5 @@
+autoconf
+gcc
+gettext-devel
+git
+ncurses-devel

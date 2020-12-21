@@ -1,0 +1,7 @@
+binutils-devel
+elfutils-devel
+gcc
+gzip
+libacl-devel
+pkgconfig(bluez)
+time

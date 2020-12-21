@@ -1,0 +1,6 @@
+gcc
+make
+pkgconfig(varnishapi)
+python3-devel
+python3-docutils
+varnish

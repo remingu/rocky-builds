@@ -1,0 +1,2 @@
+#!/bin/bash
+awk '{print $1}' requires/* | grep -vE '[/(]' | sort -u > build-dep-list.txt

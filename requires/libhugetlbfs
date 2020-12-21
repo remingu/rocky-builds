@@ -1,0 +1,4 @@
+execstack
+glibc-devel
+glibc-static
+python3-devel

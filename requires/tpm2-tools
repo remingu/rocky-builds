@@ -1,0 +1,9 @@
+autoconf-archive
+gcc-c++
+libtool
+pkgconfig(cmocka)
+pkgconfig(libcurl)
+pkgconfig(openssl)
+pkgconfig(tss2-esys)
+pkgconfig(tss2-mu)
+pkgconfig(tss2-sys)

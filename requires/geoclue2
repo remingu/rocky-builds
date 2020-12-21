@@ -1,0 +1,12 @@
+ModemManager-glib-devel
+avahi-glib-devel
+gettext
+glib2-devel
+gobject-introspection-devel
+gtk-doc
+json-glib-devel
+libnotify-devel
+libsoup-devel
+meson
+systemd
+vala

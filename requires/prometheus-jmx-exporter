@@ -1,0 +1,9 @@
+maven-local
+mvn(io.prometheus:simpleclient)
+mvn(io.prometheus:simpleclient_common)
+mvn(io.prometheus:simpleclient_hotspot)
+mvn(io.prometheus:simpleclient_httpserver)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-assembly-plugin)
+mvn(org.apache.maven.plugins:maven-shade-plugin)
+mvn(org.yaml:snakeyaml)

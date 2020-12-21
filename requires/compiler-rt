@@ -1,0 +1,7 @@
+cmake
+gcc
+gcc-c++
+llvm-devel = 9.0.1
+llvm-static = 9.0.1
+python3
+python3-devel

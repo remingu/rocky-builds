@@ -1,0 +1,51 @@
+autoconf
+avahi-devel
+bison
+cyrus-sasl-devel
+desktop-file-utils
+device-mapper-devel
+flex
+gcc
+gcc-c++
+hicolor-icon-theme
+hostname
+libibmad-devel >= 1.3.7
+libibumad-devel >= 1.3.7
+libpfm-devel >= 4
+libuv-devel >= 1.0
+libvarlink-devel
+libvirt-python3
+man
+ncurses-devel
+nss-devel
+openssl-devel >= 1.1.1
+perl(DBD::mysql)
+perl(DBI)
+perl(Digest::MD5)
+perl(ExtUtils::MakeMaker)
+perl(JSON)
+perl(LWP::UserAgent)
+perl(Time::HiRes)
+perl(strict)
+perl-devel
+perl-generators
+postfix-perl-scripts
+procps
+python3-devel
+python3-jsonpointer
+python3-lxml
+python3-psycopg2
+python3-requests
+python3-rtslib
+python3-six
+qt5-qtbase-devel
+qt5-qtsvg-devel
+readline-devel
+rpm-devel
+selinux-policy-devel
+selinux-policy-targeted
+setools-console
+systemd-devel
+systemtap-sdt-devel
+xz-devel
+zlib-devel

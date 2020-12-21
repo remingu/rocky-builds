@@ -1,0 +1,25 @@
+autoconf >= 2.65
+automake
+bison
+coreutils
+cscope
+dejagnu
+emacs
+expect
+findutils
+flex
+gcc-gfortran
+gettext-devel
+help2man
+java-devel-openjdk
+libtool
+make
+ncompress
+perl(Thread::Queue)
+perl(threads)
+perl-generators
+perl-interpreter
+sharutils
+texinfo-tex
+texlive-dvips
+vala

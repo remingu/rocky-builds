@@ -1,0 +1,14 @@
+make
+perl
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Filter::Util::Call)
+perl(Text::Balanced) >= 1.97
+perl(parent)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

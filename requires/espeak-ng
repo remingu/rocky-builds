@@ -1,0 +1,8 @@
+autoconf
+automake
+gcc
+libtool
+make
+pcaudiolib-devel
+pkgconfig
+rubygem-kramdown

@@ -1,0 +1,7 @@
+gcc
+gcc-c++
+perl-devel
+perl-generators
+python3-devel
+ruby-devel
+swig

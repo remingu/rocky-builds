@@ -1,0 +1,8 @@
+gcc
+mesa-dri-drivers
+meson
+pkgconfig(egl)
+pkgconfig(gl)
+pkgconfig(glesv2)
+python3
+xorg-x11-server-Xvfb

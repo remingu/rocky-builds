@@ -1,0 +1,5 @@
+autoconf
+automake
+ed
+libattr-devel
+libselinux-devel

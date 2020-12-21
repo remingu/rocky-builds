@@ -1,0 +1,7 @@
+cmake
+expat-devel
+gettext
+pkgconfig
+pkgconfig(libcurl)
+pkgconfig(libssh)
+zlib-devel

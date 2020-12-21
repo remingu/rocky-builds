@@ -1,0 +1,7 @@
+/usr/bin/pod2man
+gcc
+git
+glib2-devel >= 2.44.0
+libtool
+libvirt-devel >= 3.0.0
+libvirt-glib-devel >= 0.0.7

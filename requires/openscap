@@ -1,0 +1,22 @@
+GConf2-devel
+asciidoc
+bzip2-devel
+cmake >= 2.6
+dbus-devel
+doxygen
+glib2-devel
+libacl-devel
+libblkid-devel
+libcap-devel
+libcurl-devel >= 7.12.0
+libgcrypt-devel
+libselinux-devel
+libxml2-devel
+libxslt-devel
+openldap-devel
+pcre-devel
+perl-XML-Parser
+perl-generators
+python3-devel
+rpm-devel
+swig

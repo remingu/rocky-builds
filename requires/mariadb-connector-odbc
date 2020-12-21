@@ -1,0 +1,4 @@
+cmake
+gcc-c++
+mariadb-connector-c-devel >= 3.0.6
+unixODBC-devel

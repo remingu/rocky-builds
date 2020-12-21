@@ -1,0 +1,27 @@
+autoconf
+autogen
+autogen-libopts-devel >= 5.18
+automake
+ca-certificates
+datefudge
+fipscheck
+gcc
+gcc-c++
+gettext-devel
+gnupg2
+gperf
+libidn2-devel
+libtasn1-devel >= 4.3
+libtool
+libunistring-devel
+net-tools
+nettle-devel >= 3.4.1
+p11-kit-devel >= 0.21.3
+p11-kit-trust
+readline-devel
+softhsm
+texinfo
+trousers-devel >= 0.3.11.2
+unbound-devel
+unbound-libs
+zlib-devel

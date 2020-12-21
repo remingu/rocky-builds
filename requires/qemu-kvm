@@ -1,0 +1,41 @@
+bluez-libs-devel
+brlapi-devel
+check-devel
+cyrus-sasl-devel
+device-mapper-multipath-devel
+diffutils
+glib2-devel
+gnutls-devel
+libaio-devel
+libattr-devel
+libcap-devel
+libcap-ng-devel
+libcurl-devel
+libfdt-devel >= 1.4.3
+libgcrypt-devel
+libiscsi-devel
+libpng-devel
+librados-devel
+librbd-devel
+libseccomp-devel >= 2.4.0
+libssh-devel
+libtool
+libusbx-devel >= 1.0.22
+libuuid-devel
+lzo-devel
+ncurses-devel
+numactl-devel
+pciutils-devel
+perl-podlators
+pixman-devel
+pkgconfig(xkbcommon)
+python3-devel
+rdma-core-devel
+rsync
+snappy-devel
+systemd-devel
+systemtap
+systemtap-sdt-devel
+texinfo
+which
+zlib-devel

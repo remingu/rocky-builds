@@ -1,0 +1,10 @@
+automake
+gcc
+gcc-c++
+gettext-devel
+libnl3-devel
+libtool
+ncurses-devel
+pciutils-devel
+systemd
+zlib-devel

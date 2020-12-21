@@ -1,0 +1,7 @@
+expat-devel
+gcc
+gcc-c++
+libibumad-devel
+libibverbs-devel >= 1.2.0
+openssl-devel
+zlib-devel

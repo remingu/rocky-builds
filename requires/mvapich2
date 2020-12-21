@@ -1,0 +1,15 @@
+autoconf
+automake
+bison
+flex
+gcc-gfortran
+hwloc-devel
+infiniband-diags-devel
+libibumad-devel
+libibverbs-devel >= 1.1.3
+librdmacm-devel
+libtool
+perl-Digest-MD5
+python3-devel
+rdma-core-devel
+rpm-mpi-hooks

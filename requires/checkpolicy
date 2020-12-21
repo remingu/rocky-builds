@@ -1,0 +1,7 @@
+bison
+byacc
+flex
+flex-static
+gcc
+libselinux-devel >= 2.9-1
+libsepol-static >= 2.9-1

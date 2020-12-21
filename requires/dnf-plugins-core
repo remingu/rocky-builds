@@ -1,0 +1,6 @@
+/usr/bin/sphinx-build-3
+cmake
+gettext
+python3-devel
+python3-dnf >= 4.2.17
+python3-nose

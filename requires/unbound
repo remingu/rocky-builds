@@ -1,0 +1,10 @@
+expat-devel
+flex
+gcc
+libevent-devel
+make
+openssl-devel
+pkgconfig
+python3-devel
+swig
+systemd

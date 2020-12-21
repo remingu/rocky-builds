@@ -1,0 +1,7 @@
+autoconf
+automake
+gcc
+gettext-devel
+perl-interpreter
+procps
+scl-utils-build

@@ -1,0 +1,10 @@
+HdrHistogram >= 2.1.11
+desktop-file-utils
+eclipse-pde
+javamail
+maven-local
+mvn(com.sun.activation:jakarta.activation)
+mvn(org.commonjava.maven.plugins:directory-maven-plugin)
+mvn(org.openjdk.jmc:common)
+osgi(javax.annotation-api)
+tycho

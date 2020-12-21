@@ -1,0 +1,4 @@
+#!/bin/bash
+TMPFILE=$(mktemp)
+cat packages | cut -d. -f1 | xargs -l1 -I+ echo '^+$' > $TMPFILE
+diff -u source-pkg-list build-dep-list.txt | grep ^+ | tail -n +2 | cut -c2- | grep -vE --file=$TMPFILE | tee missing-build-dep-list.txt

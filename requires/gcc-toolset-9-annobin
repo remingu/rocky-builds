@@ -1,0 +1,11 @@
+binutils-devel
+elfutils
+elfutils-devel
+elfutils-libelf-devel
+gcc
+gcc-toolset-9-gcc
+gcc-toolset-9-gcc-c++
+gcc-toolset-9-gcc-plugin-devel
+gcc-toolset-9-runtime
+rpm-devel
+scl-utils-build

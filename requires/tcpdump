@@ -1,0 +1,4 @@
+automake
+git-core
+libpcap-devel
+openssl-devel

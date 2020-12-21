@@ -1,0 +1,12 @@
+catch-devel
+diffutils
+gcc-c++
+gstreamer1-devel
+gstreamer1-plugins-base-devel
+libX11-devel
+libXfixes-devel
+libXrandr-devel
+libdrm-devel
+libjpeg-turbo-devel
+pkgconfig(udev)
+spice-protocol >= 0.12.16

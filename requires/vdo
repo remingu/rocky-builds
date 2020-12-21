@@ -1,0 +1,9 @@
+device-mapper-devel
+device-mapper-event-devel
+gcc
+libuuid-devel
+python3
+python3-devel
+systemd
+valgrind-devel
+zlib-devel

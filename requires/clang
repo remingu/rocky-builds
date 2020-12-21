@@ -1,0 +1,18 @@
+chrpath
+cmake
+emacs
+gcc
+gcc-c++
+libatomic
+libxml2-devel
+llvm-devel = 9.0.1
+llvm-googletest = 9.0.1
+llvm-static = 9.0.1
+llvm-test = 9.0.1
+multilib-rpm-config
+ncurses-devel
+ninja-build
+perl-generators
+python3-devel
+python3-lit
+python3-sphinx

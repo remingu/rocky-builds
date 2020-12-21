@@ -1,0 +1,13 @@
+autoconf
+automake
+gcc
+gcc-c++
+gnutls-devel
+libjpeg-turbo-devel
+libtool
+pcre-devel
+perl(Digest::MD5)
+perl-generators
+perl-interpreter
+pkgconf-pkg-config
+zlib-devel

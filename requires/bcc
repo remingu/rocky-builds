@@ -1,0 +1,11 @@
+bison
+clang
+clang-devel
+cmake >= 2.8.7
+elfutils-libelf-devel
+flex
+libxml2-devel
+llvm-devel
+llvm-static
+ncurses-devel
+python3-devel

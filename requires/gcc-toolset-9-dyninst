@@ -1,0 +1,15 @@
+binutils-devel
+boost-devel
+cmake
+elfutils-devel
+elfutils-libelf-devel
+gcc-gfortran
+glibc-static
+libstdc++-static
+libtirpc-devel
+libxml2-devel
+nasm
+scl-utils-build
+tbb
+tbb-devel
+zlib-devel

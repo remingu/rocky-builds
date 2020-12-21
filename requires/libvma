@@ -1,0 +1,7 @@
+autoconf
+automake
+libibverbs-devel
+libibverbs-devel >= 1.2.1
+libnl3-devel
+librdmacm-devel
+libtool

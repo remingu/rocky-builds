@@ -1,0 +1,9 @@
+gettext
+gobject-introspection-devel
+gtk-doc
+gtk3-devel
+meson
+pkgconfig(libcanberra-gtk3)
+pkgconfig(libnotify)
+python3-devel
+systemd-devel

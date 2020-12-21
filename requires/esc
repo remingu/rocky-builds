@@ -1,0 +1,14 @@
+atk-devel
+dbus-glib-devel
+desktop-file-utils
+gjs-devel
+glib2-devel
+gobject-introspection-devel
+gtk3-devel
+nspr-devel
+nss-devel
+nss-static
+opensc
+pcsc-lite-devel
+pkgconfig
+pkgconfig(gconf-2.0)

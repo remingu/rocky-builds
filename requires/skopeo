@@ -1,0 +1,11 @@
+compiler(go-compiler)
+git
+glib2-devel
+go-md2man
+golang >= 1.12.12-4
+golang-github-cpuguy83-go-md2man
+gpgme-devel
+libassuan-devel
+make
+ostree-devel
+pkgconfig(devmapper)

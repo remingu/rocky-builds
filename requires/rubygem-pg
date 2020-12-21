@@ -1,0 +1,9 @@
+gcc
+libpq-devel
+postgresql-devel
+postgresql-server
+ruby(release)
+ruby-devel
+rubygem(bigdecimal)
+rubygem(rspec)
+rubygems-devel

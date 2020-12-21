@@ -1,0 +1,19 @@
+audit-libs-devel >= 1.0.6
+autoconf
+automake
+bison
+gcc
+gettext-devel
+git-core
+libcap-ng-devel
+libselinux-devel
+libtool
+libuser-devel
+libutempter-devel
+ncurses-devel
+pam-devel
+popt-devel
+python3-devel
+systemd
+systemd-devel
+zlib-devel

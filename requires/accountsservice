@@ -1,0 +1,12 @@
+autoconf
+automake
+gettext-devel
+git
+glib2-devel
+gobject-introspection-devel
+gtk-doc
+intltool
+libtool
+polkit-devel
+systemd
+systemd-devel

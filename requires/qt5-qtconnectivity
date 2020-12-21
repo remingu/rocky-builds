@@ -1,0 +1,4 @@
+pkgconfig(bluez)
+qt5-qtbase-devel >= 5.12.5
+qt5-qtbase-private-devel >= 5.12.5
+qt5-qtdeclarative-devel >= 5.12.5

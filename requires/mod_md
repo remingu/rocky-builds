@@ -1,0 +1,7 @@
+gcc
+httpd-devel >= 2.4.37
+jansson-devel
+libcurl-devel
+openssl-devel >= 1.1.0
+pkgconfig
+xmlto

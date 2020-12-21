@@ -1,0 +1,10 @@
+autoconf
+automake
+emacs(bin)
+emacs-el >= 24.1
+gcc-c++
+libtool
+pkgconfig
+python3-devel
+python3-setuptools
+zlib-devel

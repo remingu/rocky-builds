@@ -1,0 +1,8 @@
+gcc
+kernel-headers >= 2.6.29
+krb5-devel
+libcap-ng-devel
+openldap-devel
+python3-devel
+swig
+systemd

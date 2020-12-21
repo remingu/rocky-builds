@@ -1,0 +1,4 @@
+git
+pkgconfig(systemd)
+selinux-policy
+selinux-policy-devel

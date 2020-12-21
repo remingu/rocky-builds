@@ -1,0 +1,5 @@
+boost-devel
+doxygen
+gcc-c++
+pkgconfig(mdds-1.2)
+pkgconfig(zlib)

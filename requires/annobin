@@ -1,0 +1,8 @@
+binutils-devel
+elfutils
+elfutils-devel
+elfutils-libelf-devel
+gcc
+gcc-c++
+gcc-plugin-devel
+rpm-devel

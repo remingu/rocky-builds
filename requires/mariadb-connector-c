@@ -1,0 +1,6 @@
+cmake
+gcc-c++
+libcurl-devel
+multilib-rpm-config
+openssl-devel
+zlib-devel

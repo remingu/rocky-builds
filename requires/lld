@@ -1,0 +1,11 @@
+chrpath
+cmake
+gcc
+gcc-c++
+llvm-devel = 9.0.1
+llvm-googletest = 9.0.1
+llvm-test = 9.0.1
+ncurses-devel
+python3-lit
+python3-rpm-macros
+zlib-devel

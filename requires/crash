@@ -1,0 +1,5 @@
+bison
+lzo-devel
+ncurses-devel
+snappy-devel
+zlib-devel

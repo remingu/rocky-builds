@@ -1,0 +1,4 @@
+gcc
+git-core
+libuuid-devel
+make

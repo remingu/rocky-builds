@@ -1,0 +1,7 @@
+/usr/bin/doxygen
+autoconf
+automake
+gcc
+libtool
+pkgconfig(alsa)
+pkgconfig(libpulse-simple)

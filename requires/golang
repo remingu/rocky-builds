@@ -1,0 +1,6 @@
+glibc-static
+golang
+hostname
+openssl-devel
+pcre-devel
+perl

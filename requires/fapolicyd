@@ -1,0 +1,15 @@
+autoconf
+automake
+file-devel
+gcc
+kernel-headers
+libcap-ng-devel
+libgcrypt-devel
+libseccomp-devel
+libtool
+lmdb-devel
+make
+python2-devel
+python3-devel
+rpm-devel
+systemd-devel

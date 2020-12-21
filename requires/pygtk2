@@ -1,0 +1,11 @@
+automake
+docbook-style-xsl
+glib2-devel >= 2.8.0
+gtk2-devel >= 2.9.0
+libtool
+libxslt
+pango-devel >= 1.16.0
+pygobject2-devel >= 2.21.3
+python2-cairo-devel >= 1.0.2
+python2-devel >= 2.3.5
+python2-numpy

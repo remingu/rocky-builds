@@ -1,0 +1,34 @@
+alsa-lib-devel
+autoconf
+automake
+binutils
+cups-devel
+desktop-file-utils
+elfutils-devel
+fontconfig-devel
+freetype-devel
+gcc >= 4.8.3-8
+gcc-c++
+gdb
+giflib-devel
+java-11-openjdk-devel
+javapackages-filesystem
+lcms2-devel
+libX11-devel
+libXi-devel
+libXinerama-devel
+libXrandr-devel
+libXrender-devel
+libXt-devel
+libXtst-devel
+libjpeg-devel
+libpng-devel
+libxslt
+nss-devel
+pkgconfig
+systemtap-sdt-devel
+tzdata-java >= 2015d
+tzdata-java >= 2020a
+unzip
+xorg-x11-proto-devel
+zip

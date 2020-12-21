@@ -1,0 +1,14 @@
+/usr/bin/python3
+autoconf
+automake
+gcc
+gettext-devel
+glib2-devel >= 2.32.0
+intltool
+krb5-devel
+libxslt
+openldap-devel
+pkgconfig
+polkit-devel
+systemd-devel
+xmlto

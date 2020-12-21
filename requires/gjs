@@ -1,0 +1,12 @@
+cairo-gobject-devel
+chrpath
+dbus-daemon
+dbus-glib-devel
+gcc-c++
+gettext
+glib2-devel >= 2.54.0
+gobject-introspection-devel >= 1.41.4
+gtk3-devel >= 3.20
+mozjs60-devel >= 60.9.0-4
+pkgconfig
+readline-devel

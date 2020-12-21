@@ -1,0 +1,5 @@
+compiler(go-compiler) >= 1.6.2
+git
+go-md2man
+golang >= 1.12.12-4
+libseccomp-devel

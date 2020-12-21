@@ -1,0 +1,9 @@
+autoconf
+automake
+gcc
+git
+glib2-devel
+go-md2man
+libcap-devel
+libseccomp-devel
+make

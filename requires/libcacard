@@ -1,0 +1,8 @@
+glib2-devel
+gnupg2
+gnutls-utils
+nss-devel
+nss-tools
+opensc
+openssl
+softhsm

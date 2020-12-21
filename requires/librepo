@@ -1,0 +1,18 @@
+check-devel
+cmake
+doxygen
+gcc
+gpgme-devel
+libattr-devel
+libcurl-devel >= 7.28.0
+pkgconfig(glib-2.0)
+pkgconfig(libcrypto)
+pkgconfig(libxml-2.0)
+pkgconfig(openssl)
+python3-devel
+python3-flask
+python3-gpg
+python3-nose
+python3-pyxattr
+python3-requests
+python3-sphinx

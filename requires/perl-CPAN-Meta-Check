@@ -1,0 +1,16 @@
+make
+perl(CPAN::Meta) >= 2.120920
+perl(CPAN::Meta::Prereqs) >= 2.132830
+perl(CPAN::Meta::Requirements) >= 2.121
+perl(Env)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Module::Metadata) >= 1.000023
+perl(Test::Deep)
+perl(Test::More) >= 0.88
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

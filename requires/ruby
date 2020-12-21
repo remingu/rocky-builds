@@ -1,0 +1,15 @@
+/usr/bin/cmake
+/usr/bin/dtrace
+/usr/bin/hostname
+autoconf
+gcc
+gdbm-devel
+git
+gmp-devel
+libffi-devel
+libyaml-devel
+multilib-rpm-config
+openssl-devel
+procps
+readline-devel
+zlib-devel

@@ -1,0 +1,5 @@
+automake
+git-core
+libtool
+python3
+python3-devel

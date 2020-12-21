@@ -1,0 +1,10 @@
+bcc-devel
+bison
+clang-devel
+cmake
+elfutils-libelf-devel
+flex
+gcc-c++
+llvm-devel
+llvm-static
+zlib-devel

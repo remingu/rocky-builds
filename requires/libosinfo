@@ -1,0 +1,11 @@
+/usr/bin/pod2man
+git
+glib2-devel >= 2.38
+gobject-introspection-devel
+hwdata
+intltool
+libcurl-devel
+libxml2-devel >= 2.6.0
+libxslt-devel >= 1.0.0
+vala
+vala-tools

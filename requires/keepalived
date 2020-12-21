@@ -1,0 +1,7 @@
+automake
+gcc
+libnfnetlink-devel
+libnl3-devel
+net-snmp-devel
+openssl-devel
+systemd-units

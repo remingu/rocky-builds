@@ -1,0 +1,14 @@
+autoconf
+automake
+expat-devel
+gcc-c++
+git
+glib2-devel >= 2.30.0
+gobject-introspection-devel
+gtk-doc
+intltool
+libtool
+pam-devel
+pkgconfig(mozjs-60)
+systemd
+systemd-devel

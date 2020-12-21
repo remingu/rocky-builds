@@ -1,0 +1,7 @@
+autoconf
+automake
+gcc-c++
+glibc-devel
+perl(Getopt::Long)
+procps
+scl-utils-build

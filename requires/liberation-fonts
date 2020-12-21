@@ -1,0 +1,6 @@
+fontforge
+fontpackages-devel >= 1.13
+libappstream-glib
+python3-devel
+python3-fonttools
+xorg-x11-font-utils

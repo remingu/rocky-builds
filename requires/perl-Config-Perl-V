@@ -1,0 +1,16 @@
+coreutils
+findutils
+make
+perl
+perl(Config)
+perl(Digest::MD5)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test::More)
+perl(Test::NoWarnings)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

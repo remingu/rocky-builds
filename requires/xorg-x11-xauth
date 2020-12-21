@@ -1,0 +1,7 @@
+automake
+gcc
+libX11-devel
+libXau-devel
+libXext-devel
+libXmu-devel
+pkgconfig

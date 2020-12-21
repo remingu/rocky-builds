@@ -1,0 +1,25 @@
+/usr/bin/python3
+autoconf
+automake
+docbook-style-xsl
+gcc
+gdb
+gettext >= 0.19.7
+glib-networking
+glib2-devel >= 2.37.4
+gnutls-devel >= 3.4.3
+krb5-devel >= 1.11
+krb5-server
+libssh-devel >= 0.8
+libxslt-devel
+openssh-clients
+openssl-devel
+pam-devel
+pcp-libs-devel
+pkgconfig(gio-unix-2.0)
+pkgconfig(json-glib-1.0)
+pkgconfig(polkit-agent-1) >= 0.105
+sed
+systemd-devel >= 235
+xmlto
+zlib-devel

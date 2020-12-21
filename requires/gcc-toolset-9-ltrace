@@ -1,0 +1,7 @@
+autoconf
+automake
+dejagnu
+elfutils-devel
+libselinux-devel
+libtool
+scl-utils-build

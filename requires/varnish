@@ -1,0 +1,12 @@
+gcc
+graphviz
+libedit-devel
+make
+ncurses-devel
+nghttp2
+pcre-devel
+pkgconfig
+python3
+python3-docutils
+python3-sphinx
+systemd-units

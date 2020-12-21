@@ -1,0 +1,29 @@
+chrpath
+gettext-devel
+glib2-devel >= 2.36
+gobject-introspection-devel >= 1.30.0
+gtk-doc
+iscsi-initiator-utils-devel
+libacl-devel
+libatasmart-devel >= 0.17
+libblockdev-crypto-devel >= 2.19
+libblockdev-devel >= 2.19
+libblockdev-fs-devel >= 2.19
+libblockdev-kbd-devel >= 2.19
+libblockdev-loop-devel >= 2.19
+libblockdev-lvm-devel >= 2.19
+libblockdev-mdraid-devel >= 2.19
+libblockdev-part-devel >= 2.19
+libblockdev-swap-devel
+libblockdev-swap-devel >= 2.19
+libblockdev-vdo-devel >= 2.19
+libconfig-devel
+libgudev1-devel >= 208
+libmount-devel
+libstoragemgmt-devel
+lvm2-devel
+polkit-devel >= 0.102
+redhat-rpm-config
+systemd
+systemd >= 208
+systemd-devel >= 208

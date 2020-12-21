@@ -1,0 +1,7 @@
+doxygen
+gcc
+kernel-headers
+numactl-devel
+python3-devel
+python3-sphinx
+zlib-devel

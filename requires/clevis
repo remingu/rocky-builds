@@ -1,0 +1,22 @@
+asciidoc
+audit-libs-devel
+bash-completion
+cracklib-dicts
+curl
+desktop-file-utils
+diffutils
+dracut
+expect
+gcc
+jq
+libjose-devel >= 8
+libluksmeta-devel >= 8
+libudisks2-devel
+luksmeta
+meson
+ninja-build
+openssl-devel
+pkgconfig
+systemd
+tang >= 6
+tpm2-tools >= 3.0.0

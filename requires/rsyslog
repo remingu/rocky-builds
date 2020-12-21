@@ -1,0 +1,22 @@
+autoconf
+automake
+bison
+flex
+gnutls-devel
+krb5-devel
+libcurl-devel
+libestr-devel >= 0.1.9
+libfastjson-devel >= 0.99.8
+libgcrypt-devel
+liblognorm-devel
+librdkafka-devel
+librelp-devel >= 1.2.16
+libtool
+libuuid-devel
+mariadb-connector-c-devel
+net-snmp-devel
+pkgconfig
+postgresql-devel
+python3-docutils
+systemd-devel >= 219-39
+zlib-devel

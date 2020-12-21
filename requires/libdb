@@ -1,0 +1,7 @@
+chrpath
+java-devel >= 1:1.6.0
+libtool
+openssl-devel
+perl-interpreter
+tcl-devel >= 8.5.2-3
+zlib-devel

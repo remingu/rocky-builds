@@ -1,0 +1,32 @@
+GConf2
+autoconf
+cyrus-sasl-devel
+dbus-devel >= 0.60
+dbus-glib-devel >= 0.70
+desktop-file-utils
+gettext
+glib2-devel
+gtk2-devel
+gtkspell-devel
+intltool
+libSM-devel
+libXScrnSaver-devel
+libidn-devel
+libtool
+libxml2-devel
+meanwhile-devel
+ncurses-devel
+nss-devel >= 3.12.3
+perl(ExtUtils::Embed)
+perl-devel
+perl-generators
+pkgconfig(avahi-client)
+pkgconfig(avahi-glib)
+pkgconfig(farstream-0.2)
+pkgconfig(gstreamer-1.0)
+python3
+python3-rpm-macros
+startup-notification-devel
+tcl-devel
+tk-devel
+valgrind-devel

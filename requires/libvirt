@@ -1,0 +1,62 @@
+/usr/bin/pod2man
+/usr/bin/qemu-img
+audit-libs-devel
+augeas
+autoconf
+automake
+avahi-devel
+bash-completion >= 2.0
+cyrus-sasl-devel
+dbus-devel
+device-mapper-devel
+dnsmasq >= 2.41
+ebtables
+firewalld-filesystem
+gawk
+gcc
+gettext
+gettext-devel
+git
+glusterfs-api-devel >= 3.4.1
+glusterfs-devel >= 3.4.1
+gnutls-devel
+iptables
+iscsi-initiator-utils
+libacl-devel
+libattr-devel
+libblkid-devel >= 2.17
+libcap-ng-devel >= 0.5.0
+libcurl-devel
+libnl3-devel
+libpcap-devel
+libpciaccess-devel >= 0.10.9
+librados2-devel
+librbd1-devel
+libselinux-devel
+libssh-devel >= 0.7.0
+libtasn1-devel
+libtirpc-devel
+libtool
+libxml2-devel
+libxslt
+lvm2
+module-init-tools
+ncurses-devel
+netcf-devel >= 0.2.2
+nfs-utils
+numactl-devel
+numad
+parted-devel
+perl-interpreter
+polkit >= 0.112
+python3-devel
+radvd
+readline-devel
+rpcgen
+sanlock-devel >= 2.4
+scrub
+systemd-devel >= 185
+systemd-units
+systemtap-sdt-devel
+util-linux
+yajl-devel

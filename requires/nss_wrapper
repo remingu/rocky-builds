@@ -1,0 +1,5 @@
+cmake
+gcc
+gnupg2
+libcmocka-devel
+perl-generators

@@ -1,0 +1,6 @@
+autoconf
+gcc
+libtool
+libuuid-devel
+lksctp-tools-devel
+python3-devel

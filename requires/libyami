@@ -1,0 +1,9 @@
+autoconf
+automake
+libX11
+libX11-devel
+libtool
+libva
+libva-devel
+mt-st
+xorg-x11-proto-devel

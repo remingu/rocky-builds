@@ -1,0 +1,43 @@
+/usr/bin/ps
+autoconf
+automake
+bzip2
+bzip2-devel
+curl-devel >= 7.9
+cyrus-sasl-devel
+enchant-devel >= 1.2.4
+gcc
+gcc-c++
+gd-devel >= 2.1.0
+gmp-devel
+httpd-devel >= 2.0.46-1
+httpd-filesystem
+krb5-devel
+libacl-devel
+libdb-devel
+libedit-devel
+libicu-devel >= 4.0
+libpq-devel
+libstdc++-devel
+libtool
+libtool-ltdl-devel
+libxml2-devel
+libxml2-devel >= 2.4.14-1
+libxslt-devel >= 1.0.18-1
+net-snmp-devel
+nginx-filesystem
+openldap-devel
+openssl-devel
+pam-devel
+pcre-devel >= 6.6
+pcre2-devel >= 10.30
+perl-interpreter
+postgresql-devel
+recode-devel
+smtpdaemon
+sqlite-devel >= 3.6.0
+systemd-devel
+systemtap-sdt-devel
+tokyocabinet-devel
+unixODBC-devel
+zlib-devel

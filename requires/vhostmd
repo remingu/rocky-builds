@@ -1,0 +1,11 @@
+autoconf
+automake
+chrpath
+gcc
+git
+libtool
+libvirt-devel
+libxml2-devel
+perl-generators
+pkgconfig
+systemd

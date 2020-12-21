@@ -1,0 +1,30 @@
+NetworkManager-libnm-devel
+chrpath
+desktop-file-utils
+evolution-data-server-devel >= 3.17.2
+gcc
+gcr-devel
+gettext >= 0.19.6
+git
+gjs-devel >= 1.54.0
+glib2-devel >= 2.56.0
+gnome-bluetooth-libs-devel >= 1:3.9.0
+gobject-introspection >= 1.49.1
+gstreamer1-devel >= 1.4.5
+gtk-doc
+gtk3-devel >= 3.15.0
+ibus-devel >= 1.5.2
+libXfixes-devel >= 5.0
+libcanberra-devel
+libcroco-devel >= 0.6.8
+librsvg2-devel
+mesa-libEGL-devel
+mesa-libGL-devel
+meson
+mutter-devel >= 3.32
+pkgconfig(libsystemd)
+polkit-devel >= 0.100
+pulseaudio-libs-devel
+python3
+sassc
+startup-notification-devel

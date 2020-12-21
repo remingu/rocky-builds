@@ -1,0 +1,7 @@
+anaconda-core >= 28.22.10
+gettext
+openscap
+openscap-python3
+openscap-utils
+python3-devel
+python3-pycurl

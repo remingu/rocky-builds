@@ -1,0 +1,6 @@
+autoconf
+automake
+perl-interpreter
+perl-podlators
+sg3_utils-devel
+systemd-devel

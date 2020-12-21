@@ -1,0 +1,33 @@
+/usr/bin/g-ir-scanner
+/usr/bin/python3
+autoconf
+automake
+chrpath
+cmake
+gcc-c++
+git
+gnome-common
+gperf
+gpgme-devel
+gtk-doc
+libattr-devel
+libcap-devel
+libtool
+pkgconfig(check)
+pkgconfig(cppunit)
+pkgconfig(expat)
+pkgconfig(json-c)
+pkgconfig(json-glib-1.0)
+pkgconfig(libarchive)
+pkgconfig(libcurl)
+pkgconfig(librepo)
+pkgconfig(libsolv)
+pkgconfig(libsystemd)
+pkgconfig(modulemd) >= 1.6.1
+pkgconfig(ostree-1) >= 2019.2
+pkgconfig(polkit-gobject-1)
+pkgconfig(rpm)
+pkgconfig(smartcols)
+pkgconfig(sqlite3)
+rust-toolset
+swig >= 3.0.12

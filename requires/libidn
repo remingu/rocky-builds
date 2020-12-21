@@ -1,0 +1,10 @@
+autoconf
+automake
+emacs
+gcc
+gettext
+gettext-devel
+help2man
+libtool
+pkgconfig
+texinfo

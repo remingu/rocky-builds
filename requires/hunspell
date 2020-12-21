@@ -1,0 +1,7 @@
+autoconf
+automake
+gettext
+libtool
+ncurses-devel
+perl-generators
+words

@@ -1,0 +1,3 @@
+maven-local
+maven-local-openjdk8
+mvn(org.apache.felix:maven-bundle-plugin)

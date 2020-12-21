@@ -1,0 +1,10 @@
+/usr/bin/file
+clang
+clang-devel
+cmake
+desktop-file-utils
+pkgconfig(Qt5Qml)
+qt5-qtbase-private-devel
+qt5-qtbase-static >= 5.12.5
+qt5-qtdeclarative-static >= 5.12.5
+qt5-rpm-macros >= 5.12.5

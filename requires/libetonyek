@@ -1,0 +1,14 @@
+boost-devel
+doxygen
+gcc-c++
+glm-devel
+gperf
+help2man
+pkgconfig(cppunit)
+pkgconfig(liblangtag)
+pkgconfig(librevenge-0.0)
+pkgconfig(librevenge-generators-0.0)
+pkgconfig(librevenge-stream-0.0)
+pkgconfig(libxml-2.0)
+pkgconfig(mdds-1.2)
+pkgconfig(zlib)

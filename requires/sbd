@@ -1,0 +1,12 @@
+autoconf
+automake
+corosync-devel
+glib2-devel
+libaio-devel
+libtool
+libuuid-devel
+libxml2-devel
+make
+pacemaker-libs-devel > 1.1.12
+pkgconfig
+systemd

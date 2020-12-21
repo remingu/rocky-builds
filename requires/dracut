@@ -1,0 +1,10 @@
+asciidoc
+bash
+docbook-dtds
+docbook-style-xsl
+gcc
+git
+kmod-devel >= 23
+libxslt
+pkgconfig
+systemd

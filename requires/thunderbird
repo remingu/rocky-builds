@@ -1,0 +1,55 @@
+autoconf213
+bzip2-devel
+cargo
+chrpath
+clang >= 6.0
+clang-devel >= 6.0
+dbus-glib-devel
+desktop-file-utils
+findutils
+glib2-devel
+gtk3-devel
+krb5-devel
+libXt-devel
+libatomic
+libjpeg-devel
+llvm >= 6.0
+llvm-devel >= 6.0
+mesa-libGL-devel
+nodejs >= 10.21
+nodejs >= 8.11
+nss-static >= 3.44
+nss-static >= 3.53.1
+openssl-devel
+pipewire-devel
+pkgconfig(dri)
+pkgconfig(freetype2) >= 2.1.9
+pkgconfig(gconf-2.0)
+pkgconfig(gtk+-2.0)
+pkgconfig(libIDL-2.0)
+pkgconfig(libcurl)
+pkgconfig(libffi)
+pkgconfig(libnotify)
+pkgconfig(libpng)
+pkgconfig(libpulse)
+pkgconfig(libstartup-notification-1.0)
+pkgconfig(nspr) >= 4.21
+pkgconfig(nspr) >= 4.25
+pkgconfig(nss) >= 3.44
+pkgconfig(nss) >= 3.53.1
+pkgconfig(pango)
+pkgconfig(sqlite3)
+pkgconfig(xrender)
+pkgconfig(xt)
+pkgconfig(zlib)
+python3
+python3-devel
+rust >= 1.31
+rust >= 1.41
+rustfmt >= 1.41
+scl-utils
+system-bookmarks
+xz
+yasm
+zip
+zlib-devel

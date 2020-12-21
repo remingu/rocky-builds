@@ -1,0 +1,17 @@
+bison
+bzip2
+bzip2-devel
+curl
+flex
+gcc
+gcc-c++
+gettext
+iproute
+pkgconfig(libarchive) >= 3.1.2
+pkgconfig(libcurl) >= 7.29.0
+pkgconfig(libmicrohttpd) >= 0.9.33
+pkgconfig(sqlite3) >= 3.7.17
+systemd
+systemd >= 215
+xz-devel
+zlib-devel

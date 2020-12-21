@@ -1,0 +1,11 @@
+CUnit-devel
+automake
+c-ares-devel
+gcc-c++
+libev-devel
+libtool
+libxml2-devel
+openssl-devel
+python3-devel
+systemd-devel
+zlib-devel

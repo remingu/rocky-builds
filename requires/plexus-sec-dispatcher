@@ -1,0 +1,9 @@
+maven-local
+maven-local-openjdk8
+mvn(junit:junit)
+mvn(org.codehaus.modello:modello-maven-plugin)
+mvn(org.codehaus.plexus:plexus-component-metadata)
+mvn(org.codehaus.plexus:plexus-container-default)
+mvn(org.codehaus.plexus:plexus-utils)
+mvn(org.sonatype.plexus:plexus-cipher)
+mvn(org.sonatype.spice:spice-parent:pom:)

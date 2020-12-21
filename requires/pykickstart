@@ -1,0 +1,8 @@
+gettext
+python3-coverage
+python3-devel
+python3-nose
+python3-ordered-set
+python3-requests
+python3-setuptools
+python3-six

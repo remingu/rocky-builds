@@ -1,0 +1,13 @@
+bison
+cmake
+doxygen
+flex
+gcc
+gcc-c++
+git-core
+graphviz
+libcmocka-devel
+pcre-devel
+python3-devel
+swig >= 3.0.12
+valgrind

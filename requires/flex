@@ -1,0 +1,6 @@
+bison
+gcc
+gcc-c++
+gettext
+help2man
+m4

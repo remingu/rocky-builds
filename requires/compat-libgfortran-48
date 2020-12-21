@@ -1,0 +1,15 @@
+binutils >= 2.20.51.0.2-12
+bison
+dejagnu
+elfutils-devel >= 0.147
+elfutils-libelf-devel >= 0.147
+flex
+gdb
+gettext
+glibc-devel >= 2.4.90-13
+glibc-static
+gmp-devel >= 4.1.2-8
+libmpc-devel >= 0.8.1
+mpfr-devel >= 2.2.1
+sharutils
+zlib-devel

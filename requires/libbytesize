@@ -1,0 +1,10 @@
+autoconf
+automake
+gcc
+gettext-devel
+gmp-devel
+gtk-doc
+libtool
+mpfr-devel
+pcre-devel
+python3-devel

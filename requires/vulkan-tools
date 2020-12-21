@@ -1,0 +1,14 @@
+cmake3
+gcc
+gcc-c++
+glslang
+ninja-build
+pkgconfig(wayland-client)
+pkgconfig(wayland-cursor)
+pkgconfig(wayland-egl)
+pkgconfig(wayland-server)
+pkgconfig(x11)
+pkgconfig(xcb)
+pkgconfig(xrandr)
+python3-devel
+vulkan-loader-devel

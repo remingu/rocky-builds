@@ -1,0 +1,8 @@
+/usr/bin/python3
+gcc
+libtool
+pkgconfig(glproto)
+pkgconfig(x11)
+pkgconfig(xext)
+python3-libxml2
+xorg-x11-server-Xvfb

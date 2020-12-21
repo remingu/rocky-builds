@@ -1,0 +1,21 @@
+coreutils
+findutils
+make
+perl
+perl(Carp)
+perl(Data::Section)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(IO::Dir)
+perl(Module::Load)
+perl(Test::More)
+perl(Test::More) >= 0.88
+perl(Test::Pod)
+perl(Text::Template)
+perl(Try::Tiny)
+perl(parent)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

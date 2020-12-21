@@ -1,0 +1,17 @@
+(rust >= 1.40.0 with rust <= 1.41.1)
+/usr/libexec/platform-python
+cargo >= 1.40.0
+cmake >= 2.8.11
+curl
+gcc
+gcc-c++
+gdb
+git
+llvm-devel >= 7.0
+make
+ncurses-devel
+pkgconfig(libcurl)
+pkgconfig(liblzma)
+pkgconfig(openssl)
+pkgconfig(zlib)
+procps-ng

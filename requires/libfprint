@@ -1,0 +1,16 @@
+cairo-devel
+gcc
+gcc-c++
+git
+gobject-introspection-devel
+gtk-doc
+libgusb-devel >= 0.3.0
+meson
+pkgconfig(gio-2.0) >= 2.44.0
+pkgconfig(glib-2.0) >= 2.50
+pkgconfig(nss)
+pkgconfig(pixman-1)
+python3-cairo
+python3-gobject
+rpm-build
+systemd

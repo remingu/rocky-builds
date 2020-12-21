@@ -1,0 +1,16 @@
+automake
+docbook-style-xsl
+gdk-pixbuf2-devel
+gettext
+glib2-devel
+intltool
+libimobiledevice-devel
+libplist-devel
+libtool
+libusbx-devel
+libxml2-devel
+libxslt
+python2-devel
+sg3_utils-devel
+sqlite-devel
+swig

@@ -1,0 +1,9 @@
+cmake
+doxygen
+gcc-c++
+gnupg2
+krb5-devel
+libcmocka-devel
+openssl-devel
+pkgconfig
+zlib-devel

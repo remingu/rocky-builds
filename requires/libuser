@@ -1,0 +1,17 @@
+audit-libs-devel
+autoconf
+automake
+cyrus-sasl-devel
+gettext-devel
+glib2-devel
+libselinux-devel
+libtool
+linuxdoc-tools
+nscd
+openldap-clients
+openldap-devel
+openldap-servers
+openssl
+pam-devel
+popt-devel
+python3-devel

@@ -1,0 +1,5 @@
+autoconf
+doxygen
+gcc
+gcc-c++
+python3

@@ -1,0 +1,5 @@
+autoconf
+automake
+gcc
+libtool
+python3-sphinx

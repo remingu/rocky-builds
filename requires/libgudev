@@ -1,0 +1,5 @@
+glib2-devel
+gobject-introspection-devel
+gtk-doc
+libudev-devel
+pkgconfig

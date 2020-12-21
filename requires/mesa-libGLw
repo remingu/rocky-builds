@@ -1,0 +1,6 @@
+autoconf
+automake
+libGL-devel
+libXt-devel
+libtool
+openmotif-devel

@@ -1,0 +1,25 @@
+coreutils
+findutils
+gcc
+git
+libvirt-devel >= 4.5.0
+make
+perl(ExtUtils::CBuilder)
+perl(Module::Build)
+perl(Sys::Hostname)
+perl(Test::CPAN::Changes)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(Time::HiRes)
+perl(XML::XPath)
+perl(XML::XPath::XMLParser)
+perl(XSLoader)
+perl(base)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+sed

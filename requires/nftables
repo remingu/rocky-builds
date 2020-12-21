@@ -1,0 +1,16 @@
+asciidoc
+autoconf
+autogen
+automake
+bison
+flex
+gcc
+gmp-devel
+iptables-devel
+jansson-devel
+libmnl-devel
+libtool
+pkgconfig(libnftnl) >= 1.1.5-3
+python3-devel
+readline-devel
+systemd

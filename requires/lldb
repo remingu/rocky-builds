@@ -1,0 +1,14 @@
+clang-devel = 9.0.1
+cmake
+libedit-devel
+libffi-devel
+libxml2-devel
+llvm-devel = 9.0.1
+llvm-static = 9.0.1
+llvm-test = 9.0.1
+multilib-rpm-config
+ncurses-devel
+python3-devel
+python3-lit
+swig
+zlib-devel

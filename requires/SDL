@@ -1,0 +1,15 @@
+alsa-lib-devel
+autoconf
+automake
+coreutils
+gcc
+glibc-common
+libX11-devel
+libXext-devel
+libXrandr-devel
+libXrender-devel
+libtool
+make
+mesa-libGL-devel
+mesa-libGLU-devel
+pulseaudio-libs-devel

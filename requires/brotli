@@ -1,0 +1,4 @@
+cmake
+gcc
+gcc-c++
+python3-devel

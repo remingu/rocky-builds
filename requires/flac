@@ -1,0 +1,7 @@
+autoconf
+automake
+doxygen
+gcc
+gettext-devel
+libogg-devel
+libtool

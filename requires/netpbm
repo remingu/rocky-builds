@@ -1,0 +1,11 @@
+flex
+ghostscript
+jasper-devel
+jbigkit-devel
+libX11-devel
+libjpeg-devel
+libpng-devel
+libtiff-devel
+libxml2-devel
+perl-generators
+python3

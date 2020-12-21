@@ -1,0 +1,10 @@
+check-devel
+cmake
+doxygen
+expat-devel
+gcc
+gcc-c++
+libxml2-devel
+python3-devel
+python3-sphinx
+zlib-devel

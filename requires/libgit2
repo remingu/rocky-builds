@@ -1,0 +1,7 @@
+cmake
+gcc
+http-parser-devel
+libcurl-devel
+openssl-devel
+python3-devel
+zlib-devel

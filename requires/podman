@@ -1,0 +1,18 @@
+compiler(go-compiler)
+device-mapper-devel
+git
+glib2-devel
+glibc-devel
+glibc-static
+go-md2man
+golang >= 1.12.12-4
+gpgme-devel
+libassuan-devel
+libgpg-error-devel
+libseccomp-devel
+libselinux-devel
+make
+ostree-devel
+pkgconfig
+systemd
+systemd-devel

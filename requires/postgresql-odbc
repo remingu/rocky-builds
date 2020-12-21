@@ -1,0 +1,4 @@
+libpq-devel
+postgresql-devel
+postgresql-test-rpm-macros
+unixODBC-devel

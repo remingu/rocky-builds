@@ -1,0 +1,11 @@
+gcc
+git-core
+glib2-devel
+grub2-tools-minimal
+libblkid-devel
+make
+pkgconfig
+popt-devel
+rpm-devel
+sed
+util-linux-ng

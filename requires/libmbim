@@ -1,0 +1,9 @@
+autoconf
+automake
+gcc
+glib2-devel
+gtk-doc
+libtool
+pkgconfig
+pkgconfig(gudev-1.0) >= 147
+python3-devel

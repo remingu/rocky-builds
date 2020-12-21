@@ -1,0 +1,10 @@
+autoconf
+automake
+libtool
+opensc
+openssl >= 1.0.2
+openssl-devel
+pkgconfig
+pkgconfig(p11-kit-1)
+procps-ng
+softhsm

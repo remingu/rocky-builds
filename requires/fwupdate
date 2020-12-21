@@ -1,0 +1,12 @@
+efivar-devel >= 35-1
+elfutils
+gettext
+git
+gnu-efi >= 3.0.8-1
+gnu-efi-devel >= 3.0.8-1
+libabigail
+libsmbios-devel
+pesign
+pkgconfig
+popt-devel
+systemd

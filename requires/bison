@@ -1,0 +1,4 @@
+autoconf
+flex
+gcc-c++
+m4 >= 1.4

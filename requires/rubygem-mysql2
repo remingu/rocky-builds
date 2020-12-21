@@ -1,0 +1,9 @@
+/usr/bin/hostname
+gcc
+mariadb-connector-c-devel
+mariadb-server
+ruby(release)
+ruby-devel
+rubygem(bigdecimal)
+rubygem(rspec)
+rubygems-devel

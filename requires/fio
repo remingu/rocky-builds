@@ -1,0 +1,7 @@
+gcc
+libaio-devel
+librbd1-devel
+librdmacm-devel
+numactl-devel
+python3-devel
+zlib-devel

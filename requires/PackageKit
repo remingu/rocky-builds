@@ -1,0 +1,23 @@
+bash-completion
+docbook-utils
+fontconfig-devel
+gettext
+glib2-devel >= 2.54.0
+gobject-introspection-devel
+gstreamer1-devel
+gstreamer1-plugins-base-devel
+gtk-doc
+gtk2-devel
+gtk3-devel
+intltool
+libappstream-glib-devel
+libdnf-devel >= 0.22.0
+libtool
+pango-devel
+polkit-devel >= 0.92
+python3-devel
+sqlite-devel
+systemd-devel
+vala-tools
+xmlto
+yelp-tools

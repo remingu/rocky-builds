@@ -1,0 +1,6 @@
+dbus-devel
+docbook-utils
+libnl3-devel
+openssl-devel
+readline-devel
+systemd-units

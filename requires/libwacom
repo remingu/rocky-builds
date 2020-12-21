@@ -1,0 +1,8 @@
+gcc
+git
+glib2-devel
+libgudev1-devel
+libxml2-devel
+meson
+systemd
+systemd-devel

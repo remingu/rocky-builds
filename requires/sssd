@@ -1,0 +1,61 @@
+autoconf
+automake
+bind-utils
+c-ares-devel
+check-devel
+cifs-utils-devel
+dbus-devel
+dbus-libs
+diffstat
+docbook-style-xsl
+doxygen
+findutils
+gcc
+gdm-pam-extensions-devel
+gettext-devel
+glib2-devel
+gnutls-utils
+jansson-devel
+keyutils-libs-devel
+krb5-devel
+libcmocka-devel >= 1.0.0
+libcollection-devel
+libdhash-devel >= 0.4.2
+libini_config-devel >= 1.1
+libldb-devel >= 1.2.0
+libnfsidmap-devel
+libnl3-devel
+libselinux-devel
+libsemanage-devel
+libsmbclient-devel
+libtalloc-devel
+libtdb-devel
+libtevent-devel
+libtool
+libuuid-devel
+libxml2
+libxslt
+m4
+make
+nspr-devel
+nss-devel
+nss_wrapper
+openldap-devel
+openssh
+openssl
+openssl-devel
+p11-kit-devel
+pam-devel
+pam_wrapper
+pcre-devel
+pkgconfig
+popt-devel
+python3-devel
+samba-winbind
+samba4-devel
+selinux-policy-targeted
+softhsm >= 2.1.0
+systemd
+systemd-devel
+systemtap-sdt-devel
+uid_wrapper

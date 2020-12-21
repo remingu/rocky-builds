@@ -1,0 +1,7 @@
+autoconf
+automake
+bison
+flex
+libtool
+python3-devel
+swig

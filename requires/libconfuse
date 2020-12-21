@@ -1,0 +1,4 @@
+check-devel
+gcc
+perl-interpreter
+pkgconfig

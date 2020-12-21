@@ -1,0 +1,13 @@
+make
+platform-python-setuptools
+python2-devel
+python2-pytest
+python2-pytz
+python2-setuptools
+python3-devel
+python3-pytest
+python3-pytz
+python3-sphinx
+python38-devel
+python38-rpm-macros
+python38-setuptools

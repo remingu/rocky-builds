@@ -1,0 +1,6 @@
+kernel-headers
+libcap-devel
+libtool
+ncurses-devel
+systemd
+zlib-devel

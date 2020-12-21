@@ -1,0 +1,22 @@
+automake
+dbus-devel >= 0.90
+dbus-glib-devel >= 0.70
+desktop-file-utils
+expat-devel
+gcc
+gdbm-devel
+glib2-devel
+gtk2-devel
+gtk3-devel >= 2.99.0
+intltool
+libcap-devel
+libdaemon-devel >= 0.11
+libtool
+perl-XML-Parser
+pkgconfig(pygobject-3.0)
+python2-devel
+python3-dbus
+python3-devel
+python3-libxml2
+systemd
+xmltoman

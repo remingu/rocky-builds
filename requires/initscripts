@@ -1,0 +1,10 @@
+filesystem >= 3
+gcc
+gettext
+git
+glib2-devel
+pkgconfig
+popt-devel
+python3-devel
+setup
+systemd

@@ -1,0 +1,10 @@
+/usr/bin/pod2man
+glib2-devel
+intltool
+json-glib-devel
+libarchive-devel
+libxml2-devel >= 2.6.0
+libxslt-devel >= 1.0.0
+python3
+python3-pytest
+python3-requests
